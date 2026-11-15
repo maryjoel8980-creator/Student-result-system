@@ -5,8 +5,8 @@ A menu-driven Python application for managing student records and results.
 - **Name:** Joel Mary Ayomikun
 - **Matric No.:** 24/SCI01/104
 - **Department:** Computer Science
-- **GitHub:** [maryjoel8980](https://github.com/maryjoel8980)
-
+- **GitHub:** [maryjoel8980-creator](https://github.com/maryjoel8980-creator)
+- **Github:** 
 ## Features
 - Add, view, search, update and delete students
 - Record at least 5 subject scores, with totals, averages and grades (A-F)
