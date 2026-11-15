@@ -6,7 +6,8 @@ A menu-driven Python application for managing student records and results.
 - **Matric No.:** 24/SCI01/104
 - **Department:** Computer Science
 - **GitHub:** [maryjoel8980-creator](https://github.com/maryjoel8980-creator)
-- **Github:** https://github.com/maryjoel8980-creator
+- **Github:** https://github.com/maryjoel8980-creator/Student-result-system
+- 
 ## Features
 - Add, view, search, update and delete students
 - Record at least 5 subject scores, with totals, averages and grades (A-F)
